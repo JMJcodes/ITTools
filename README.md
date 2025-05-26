@@ -38,14 +38,6 @@ A GUI-powered Windows diagnostics and backup launcher built for support teams, f
 
 ---
 
-##  Great For
-
-- IT support interviews
-- Job portfolios
-- Internal tools at small businesses
-
----
-
 ##  Requirements
 
 - Windows 10 or 11
